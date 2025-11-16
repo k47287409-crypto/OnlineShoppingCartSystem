@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello Project - Online Shopping Cart System" << endl;
+    return 0;
+}
